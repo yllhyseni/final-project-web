@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.black{
+    width: 1892px;
+    height: 1000px;
+    background-color: #2C3333;
+}
+.blue{
+    width: 1872px;
+    height: 978px;
+    background-color: #A5C9CA;
+    position: absolute;
+    top: 0;
+    top: 10px;
+    left: 10px;
+}
